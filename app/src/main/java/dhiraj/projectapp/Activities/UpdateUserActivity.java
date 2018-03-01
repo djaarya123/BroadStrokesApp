@@ -113,6 +113,9 @@ public class UpdateUserActivity extends AppCompatActivity implements View.OnClic
             etCity.setText(userData.getCity());
             etState.setText(userData.getState());
             etCountry.setText(userData.getCountry());
+
+            linearLayoutAtUpdateUser.setVisibility(View.VISIBLE);
+            progressBarInUserUpdate.setVisibility(View.GONE);
         }
 
         etName.setEnabled(false);
