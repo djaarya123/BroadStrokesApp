@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "736136490507",
+    "firebase_url": "https://broad-strokes.firebaseio.com",
+    "project_id": "broad-strokes",
+    "storage_bucket": "broad-strokes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736136490507:android:7fc7d6af6de07c05",
+        "android_client_info": {
+          "package_name": "dhiraj.projectapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736136490507-pfd4fd3oul2h20gar4n74ko7q8nsc5ve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dhiraj.projectapp",
+            "certificate_hash": "edac5fc7d47d0864de49acf3421d9d3f3e57bff8"
+          }
+        },
+        {
+          "client_id": "736136490507-8fti9k9up1rm3rfd4b5acsm839u02t99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkV5SLC0ik6ZKlwcqpV2L_kGNl4L5h8eo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736136490507-8fti9k9up1rm3rfd4b5acsm839u02t99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

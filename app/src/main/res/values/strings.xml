@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Broad Strokes</string>
+    <string name="name_input">Enter name</string>
+    <string name="age_input">Enter age</string>
+    <string name="city_input">Enter city</string>
+    <string name="state_input">Enter state</string>
+    <string name="country_input">Enter country</string>
+    <string name="welcome">Welcome to Broad Strokes</string>
+</resources>
